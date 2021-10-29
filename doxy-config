@@ -1,5 +1,5 @@
 PROJECT_NAME = "Rigs of Rods Scripting Interface"
-PROJECT_NUMBER = "2020.01"
+PROJECT_NUMBER = "2021.10"
 PROJECT_BRIEF = "Soft-body Physics Simulation"
 SHOW_FILES = YES
 EXTRACT_ALL = YES
