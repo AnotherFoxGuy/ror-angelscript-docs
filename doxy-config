@@ -31,3 +31,8 @@ INTERACTIVE_SVG = YES
 DOT_TRANSPARENT = YES
 FILE_PATTERNS = *.h \
                 *.as
+
+HTML_EXTRA_FILES       = doxygen-awesome-darkmode-toggle.js
+HTML_EXTRA_STYLESHEET  = doxygen-awesome.css
+HTML_HEADER            = header.html
+HTML_FOOTER            = footer.html
